@@ -1,5 +1,5 @@
 # push-test
-push練習用
+APNs Test
 
 # 開閉できるセクション
 <details>
